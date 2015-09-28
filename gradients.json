@@ -458,4 +458,8 @@
 {
     "name": "Deep Purple",
     "colors": ["#673AB7", "#512DA8"]
+},
+{
+    "name": "Land io",
+    "colors": ["#7B72CB", "#3E84CC"]
 }]
